@@ -1,0 +1,37 @@
+#gyumolcs {
+    color: gray;
+}
+
+#zoldseg {
+    list-style-type: upper-latin;
+    color: lightgray;
+}
+
+#edesseg {
+    list-style-type: upper-roman;
+    color: lightgray;
+    margin-left: 30px;
+    font-size: 18px;
+}
+
+body {
+    background: radial-gradient(circle, rgb(83, 175, 141) 0%, rgba(71,97,129,1) 59%, rgb(51, 85, 128) 100%);
+    margin: 80px;
+}
+
+#numbers {
+    font-size: 10px;
+    color: chartreuse
+}
+
+#szamok {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    color: violet
+}
+
+.container {
+    background-color: white;
+}
