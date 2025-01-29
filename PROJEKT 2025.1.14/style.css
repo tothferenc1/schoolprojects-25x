@@ -12,3 +12,8 @@ h1 {
     text-decoration: none;
     font-size: x-large;
 }
+
+img {
+    height: 500;
+    width: 50%;
+}
